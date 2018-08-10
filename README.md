@@ -8,6 +8,9 @@ Scans network for wifi download speeds in MB/sec, checks ports if they are open 
 
 ### Splash Screen
 
+![X1](https://github.com/sirakberhane/NetworkScannerPro-IOS/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202018-08-10%20at%2012.22.57_iphonexspacegrey_portrait.png)
 
 
 ### Home Screen
+
+![X2](https://github.com/sirakberhane/NetworkScannerPro-IOS/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202018-08-10%20at%2012.23.13_iphonexspacegrey_portrait.png)
